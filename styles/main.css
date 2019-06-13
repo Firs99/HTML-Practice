@@ -49,3 +49,43 @@
     left: -1%;
     text-align: right;
 }
+.wrap_content{
+    position: absolute;
+    top: 23%;
+    left: 8.3%;
+    width: 22.2%;
+}
+.content_p{
+    color: grey;
+}
+.header_news{
+    position: absolute;
+    top: 18%;
+    left: 80%;
+    bottom: 0%;
+    right: 0%;
+    font-size: 20px;
+}
+.wrap_fame{
+    position: absolute;
+    top: 23%;
+    left: 80%;
+    width: 22.2%;
+}
+.footer_div{
+position: absolute;
+top: 0%;
+left: 0%;
+}
+.rectangle_2{
+    border: 1px solid black;
+    background-color: grey;
+    position: absolute;
+    top: 79px;
+    left:80%;
+    width: 19.5%;
+    height: 25px;
+}
+.header_2{
+    
+}
